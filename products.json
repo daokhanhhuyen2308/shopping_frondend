@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": 250000,
+        "image": "imgs/1.png",
+        "nature": {
+            "color": [
+                "white",
+                "black"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "t-shirt"
+        }
+    },
+    {
+        "id": 2,
+        "name": "T-shirt",
+        "price": 450000,
+        "image": "imgs/2.png",
+        "nature": {
+            "color": [
+                "white",
+                "grey"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "t-shirt"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Shirt",
+        "price": 350000,
+        "image": "imgs/3.png",
+        "nature": {
+            "color": [
+                "blue",
+                "red",
+                "grey"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "shirt"
+        }
+    },
+    {
+        "id": 4,
+        "name": "T-shirt",
+        "price": 400000,
+        "image": "imgs/4.png",
+        "nature": {
+            "color": [
+                "white",
+                "black"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "t-shirt"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Jacket",
+        "price": 290000,
+        "image": "imgs/5.png",
+        "nature": {
+            "color": [
+                "brown",
+                "black"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "jacket"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pants",
+        "price": 250000,
+        "image": "imgs/6.png",
+        "nature": {
+            "color": [
+                "blue",
+                "grey"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "pants"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Shirt",
+        "price": 300000,
+        "image": "imgs/7.png",
+        "nature": {
+            "color": [
+                "black",
+                "red"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "shirt"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Jacket",
+        "price": 500000,
+        "image": "imgs/8.png",
+        "nature": {
+            "color": [
+                "blue",
+                "grey"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "type": "jacket"
+        }
+    }
+]
